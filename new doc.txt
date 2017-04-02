@@ -1,4 +1,8 @@
 New Test Branch
 5.edit
+<<<<<<< HEAD
 
  
+=======
+6.edit by yordank
+>>>>>>> TestBranch
